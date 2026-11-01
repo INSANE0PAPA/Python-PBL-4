@@ -1,6 +1,6 @@
 <div align="center">
 
-# `PYTHON / PBL-LAB`
+# `PYTHON LAB`
 
 ### Two command-line projects. One standard-library toolkit.
 
